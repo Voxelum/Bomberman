@@ -1,0 +1,12 @@
+{
+    "name": "bomberman",
+    "private": true,
+    "scripts": {
+        "dev": "npm run dev --prefix client",
+        "build": "npm run build --prefix client"
+    },
+    "workspaces": [
+        "client",
+        "server"
+    ]
+}

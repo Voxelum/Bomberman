@@ -1,0 +1,10 @@
+#game_canvas{
+    max_height: 100vh;
+    max_width:100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+
+    background-color: wheat;
+}

@@ -1,12 +1,28 @@
 {
-    "name": "bomberman",
-    "private": true,
-    "scripts": {
-        "dev": "npm run dev --prefix client",
-        "build": "npm run build --prefix client"
-    },
-    "workspaces": [
-        "client",
-        "server"
-    ]
+  "name": "bomberman",
+  "private": true,
+  "scripts": {
+    "dev": "npm run dev --prefix client",
+    "build": "npm run build --prefix client"
+  },
+  "workspaces": [
+    "client",
+    "server"
+  ],
+  "description": "A experimental web game development\r \"STAY AWAY, OR YOU WILL BE HAUNTED BY NOOB CODE FOREVER\"",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Voxelum/Bomberman.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Eric",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Voxelum/Bomberman/issues"
+  },
+  "homepage": "https://github.com/Voxelum/Bomberman#readme"
 }

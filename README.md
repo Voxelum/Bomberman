@@ -1,5 +1,6 @@
 # Bomberman
-A experimental web game development
-"STAY AWAY, OR YOU WILL BE HAUNTED BY NOOB CODE FOREVER"
+An experimental web game development using Canvas.
+Someone told me Canvas is a piece of shit, heng.
 
-github 真垃圾
+
+
